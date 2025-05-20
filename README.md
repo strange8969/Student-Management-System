@@ -31,7 +31,8 @@ The Student Management System provides an easy-to-use interface for educational 
 
 ## Screenshots
 
-(Add screenshots of your application here)
+![student-dashboard](https://github.com/user-attachments/assets/aa4ee2bc-81f9-4be8-8478-643d55f4698b)
+
 
 ## Getting Started
 
@@ -50,7 +51,7 @@ The Student Management System provides an easy-to-use interface for educational 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/strange8969/student-management-system.git
    cd student-management-system
    ```
 
@@ -95,10 +96,6 @@ The application follows a standard Spring Boot project structure:
 4. The repository layer interacts with the MySQL database using JPA
 5. Thymeleaf templates render the HTML views with data from the controller
 
-## API Endpoints
-
-(If your application has RESTful API endpoints, list them here)
-
 ## Configuration
 
 The application can be configured through the `application.properties` file:
@@ -106,13 +103,6 @@ The application can be configured through the `application.properties` file:
 - Hibernate properties
 - Logging settings
 - Error handling configuration
-
-## Error Handling
-
-The application includes comprehensive error handling with:
-- Detailed error messages
-- Binding error information
-- Stack traces in development environment
 
 ## Contributing
 
