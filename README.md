@@ -122,10 +122,6 @@ The application includes comprehensive error handling with:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-[Add your license information here]
-
 ## Contact
 
 [Your contact information]
